@@ -1,0 +1,4 @@
+E:\aromaretail\Web\AromaRetail_API\obj\Debug\netcoreapp2.2\AromaRetail_API.csprojAssemblyReference.cache
+E:\aromaretail\Web\AromaRetail_API\obj\Debug\netcoreapp2.2\AromaRetail_API.AssemblyInfoInputs.cache
+E:\aromaretail\Web\AromaRetail_API\obj\Debug\netcoreapp2.2\AromaRetail_API.AssemblyInfo.cs
+E:\aromaretail\Web\AromaRetail_API\obj\Debug\netcoreapp2.2\AromaRetail_API.csproj.CoreCompileInputs.cache

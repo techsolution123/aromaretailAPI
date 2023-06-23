@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>84454fa8-0d7b-40eb-a77c-b2d24855c50c</UserSecretsId>
+    <AssemblyVersion>1.0.23118.2203</AssemblyVersion>
+    <FileVersion>1.0.23118.2203</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+
+</Project>

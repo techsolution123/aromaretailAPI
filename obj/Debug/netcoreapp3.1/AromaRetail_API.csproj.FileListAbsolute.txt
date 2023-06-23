@@ -1,0 +1,90 @@
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.exe
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.deps.json
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.runtimeconfig.json
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.runtimeconfig.dev.json
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.dll
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.pdb
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.Views.dll
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.Views.pdb
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.AssemblyInfoInputs.cache
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.AssemblyInfo.cs
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.csproj.CoreCompileInputs.cache
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.MvcApplicationPartsAssemblyInfo.cache
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.RazorAssemblyInfo.cache
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.RazorAssemblyInfo.cs
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\staticwebassets\AromaRetail_API.StaticWebAssets.Manifest.cache
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\staticwebassets\AromaRetail_API.StaticWebAssets.xml
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\AromaRetail_API.styles.css
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.TagHelpers.input.cache
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.TagHelpers.output.cache
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.RazorCoreGenerate.cache
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.RazorTargetAssemblyInfo.cache
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.RazorTargetAssemblyInfo.cs
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.Views.pdb
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.csproj.CopyComplete
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.dll
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.pdb
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.genruntimeconfig.cache
+E:\AromaRetail\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\Web.config
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.csproj.AssemblyReference.cache
+E:\AromaRetail\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\Web.config
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.StaticWebAssets.xml
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.exe
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.deps.json
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.runtimeconfig.json
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.runtimeconfig.dev.json
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.pdb
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.Views.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\AromaRetail_API.Views.pdb
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.csproj.AssemblyReference.cache
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.AssemblyInfoInputs.cache
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.AssemblyInfo.cs
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.csproj.CoreCompileInputs.cache
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.RazorAssemblyInfo.cache
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.RazorAssemblyInfo.cs
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\staticwebassets\AromaRetail_API.StaticWebAssets.Manifest.cache
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\staticwebassets\AromaRetail_API.StaticWebAssets.Pack.cache
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.AromaRetail_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.AromaRetail_API.props
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.AromaRetail_API.props
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.AromaRetail_API.props
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.TagHelpers.input.cache
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.TagHelpers.output.cache
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.RazorCoreGenerate.cache
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.RazorTargetAssemblyInfo.cache
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.RazorTargetAssemblyInfo.cs
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.Views.pdb
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.csproj.CopyComplete
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.pdb
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Debug\netcoreapp3.1\AromaRetail_API.genruntimeconfig.cache

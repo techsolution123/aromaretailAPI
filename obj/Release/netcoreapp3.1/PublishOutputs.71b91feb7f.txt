@@ -1,0 +1,16 @@
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\AromaRetail_API.exe
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\Web.config
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\AromaRetail_API.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\AromaRetail_API.deps.json
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\AromaRetail_API.runtimeconfig.json
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\AromaRetail_API.pdb
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\AromaRetail_API.Views.dll
+C:\Users\differenz87\Desktop\Aditi\Aroma\Web (1)\Web\AromaRetail_API\obj\Release\netcoreapp3.1\PubTmp\Out\AromaRetail_API.Views.pdb

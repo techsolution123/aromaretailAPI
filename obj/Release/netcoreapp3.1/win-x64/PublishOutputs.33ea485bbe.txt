@@ -1,0 +1,11 @@
+E:\aromaretail\Web\AromaRetail_API\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\AromaRetail_API.exe
+E:\aromaretail\Web\AromaRetail_API\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\appsettings.Development.json
+E:\aromaretail\Web\AromaRetail_API\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\appsettings.json
+E:\aromaretail\Web\AromaRetail_API\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\AromaRetail_API.dll
+E:\aromaretail\Web\AromaRetail_API\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\AromaRetail_API.deps.json
+E:\aromaretail\Web\AromaRetail_API\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\AromaRetail_API.runtimeconfig.json
+E:\aromaretail\Web\AromaRetail_API\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\AromaRetail_API.pdb
+E:\aromaretail\Web\AromaRetail_API\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\System.Data.SqlClient.dll
+E:\aromaretail\Web\AromaRetail_API\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\sni.dll
+E:\aromaretail\Web\AromaRetail_API\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\AromaRetail_API.Views.dll
+E:\aromaretail\Web\AromaRetail_API\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\AromaRetail_API.Views.pdb
